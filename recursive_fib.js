@@ -1,5 +1,3 @@
-console.log("first");
-
 function fib(num) {
     if (num === 1) {
         return [0,1];
